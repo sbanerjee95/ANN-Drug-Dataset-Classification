@@ -9,7 +9,7 @@ During their course of treatment, each patient responded to one of five medicati
 
 ### Data Description:
 
-| Column name                |   Description 															    |
+| Column name                |   Description 							|
 | -----------      			     |   -----------                                                              |
 | Age               |   Age of a patient (Number)             |
 | Sex	                     |   M or F                                        |
